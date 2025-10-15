@@ -14,3 +14,9 @@ KỸ NĂNG:
 - Lập trình Python (cơ bản)
 - Thiết kế UI/UX 
 - Sử dụng thành thạo word
+KẾ HOẠCH HỌC TẬP
+1. Tháng 10: Hoàn thành khóa học Lập trình Web Frontend cơ bản.
+2. Tháng 11: Bắt đầu dự án cá nhân áp dụng kiến thức Frontend.
+3. Tháng 12: Tập trung học thuật toán và cấu trúc dữ liệu.
+4. Quý 1 năm sau: Bắt đầu tìm hiểu về Backend (Node.js/Python).
+5. Mục tiêu cuối năm: Có kinh nghiệm làm việc trong dự án thực tế.
