@@ -1,5 +1,9 @@
 GIỚI THIỆU CÁ NHÂN
+
 1. Hello this  Do Thi Ngoc Tran
+
+1. Xin chào tôi là Đỗ Thị Ngọc Trân.
+Conflict resolved on 15/10/2025
 2. Hiện đang học tại NCT.
 3. Tôi có kinh nghiệm cơ bản về lập trình.
 4. Mục tiêu của tôi là trở thành tester.
