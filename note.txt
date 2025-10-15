@@ -1,5 +1,3 @@
 - Git là công cụ quản lý phiên bản cực kỳ mạnh mẽ.
 - Giúp tôi theo dõi các thay đổi và làm việc nhóm hiệu quả.
 - Khả năng branching và merging là tính năng tôi thích nhất.
-- Tuy nhiên, cần phải cẩn thận với lệnh reset.
-- Quá trình học tập Git rất thú vị và bổ ích.
