@@ -1,0 +1,6 @@
+Mô tả tính năng 'Dark Mode'
+1. Tính năng này cho phép người dùng chuyển đổi giao diện sang màu tối.
+2. Giúp giảm mỏi mắt khi sử dụng vào ban đêm.
+3. Áp dụng cho toàn bộ các trang chính của ứng dụng.
+4. Cần được kiểm thử kỹ lưỡng trên các trình duyệt khác nhau.
+5. Sử dụng CSS media query để tự động nhận diện chế độ hệ thống.
